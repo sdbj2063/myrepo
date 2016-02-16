@@ -1,1 +1,2 @@
 Hello World from Git Bash
+Another update from Git GUI.
